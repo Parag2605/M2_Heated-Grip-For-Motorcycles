@@ -5,7 +5,7 @@
  * @author Parag
  * @brief Project to turn ON LED connected to AVR328 MCU GPIO Pin if button sensor and heater switches are pressed also read analog values from temperature sensor convert to corresponding digital values and display waveform
  * @version 0.1
- * @date 2021-04-29
+ * @date 2022-04-21
  * 
  * @copyright Copyright (c) 2021
  * 
