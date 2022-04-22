@@ -2,7 +2,7 @@
 #define __ACTIVITY_1_H_
 /**
  * @file activity1.h
- * @author Chinmayi B C
+ * @author Parag
  * @brief Project to turn ON LED connected to AVR328 MCU GPIO Pin if button sensor and heater switches are pressed
  * @version 0.1
  * @date 2021-04-23
