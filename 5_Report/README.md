@@ -63,3 +63,10 @@ Based on the controller it will set the temperature and it is capable of upholdi
 | HLR4_LLR1 | CRO and LED  |
 | HLR5_LLR1 | Code Blocks with AVR GCC compiler  |
 | HLR5_LLR2 | SimulIDE  |
+
+## Block Diagram
+![Block Diagram](https://user-images.githubusercontent.com/101051467/164991899-4a3922db-cbfe-4a07-86bf-a34d4342bf5a.png)
+
+## Flow Chart
+![Flow Chart (1)](https://user-images.githubusercontent.com/101051467/164991913-3298a7a0-7cd8-4a37-8a03-4eedd684e036.png)
+
